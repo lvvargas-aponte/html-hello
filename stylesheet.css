@@ -1,0 +1,47 @@
+body {
+    background: #d6d6d6;
+    color: black;
+    margin:0;
+}
+
+header, div.headerText h1 {
+    background: white;
+    width: 100%;
+    margin: 0;
+}
+
+div.content {
+    margin-top: 5%;
+}
+
+div.post, div.headerText h1 {
+	width: 600px;	
+    margin: auto;
+    margin-bottom: 5%;
+    background: white;
+}
+
+
+div.postHeader h2 {
+    float: left;
+    margin: 10px;
+}
+
+
+div.postHeader p {
+    float: right;
+    margin: 22px 10px 0px 0px;
+    color: grey;
+}
+
+div.postImage img {
+    width: 100%;
+}
+
+div.postComment p {
+    text-align: justify;
+    margin:0;
+    padding: 20px;
+    font-size: large;
+}
+
